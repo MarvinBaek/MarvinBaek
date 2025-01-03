@@ -27,4 +27,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinBaek&layout=compact&bg_color=60,f9e7e7,aae4fd&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
     
